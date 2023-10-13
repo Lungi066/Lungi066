@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lungi066
+- 👋 Hi, I’m Lungisani Ngcobo
 - 👀 I’m interested in Full Stack web development
 - 🌱 I’m currently learning Full Stack web development with Python and JavaScript
 - 💞️ I’m looking to collaborate on any full stack projects (front-end and/or backend)
